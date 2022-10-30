@@ -61,6 +61,13 @@ export default function App() {
         </div>
       </div>
       <table className="table table-bordered" id="forecast" />
+      <a
+        href="
+https://github.com/ValeriiaMandrik/weather-app-react"
+      >
+        {" "}
+        GitHub Repository{" "}
+      </a>
     </div>
   );
 }
